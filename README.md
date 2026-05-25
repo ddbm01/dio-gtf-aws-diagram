@@ -15,7 +15,7 @@ O arquivo fonte interativo está disponível neste repositório como `arquitetur
 > 2. dê um duplo clique nele para visualizar a arquitetura direto no seu navegador.
 > 3. Se quiser editar, basta acessar o [Draw.io](https://app.diagrams.net/) e **arrastar e soltar** o arquivo `.html` para dentro da tela quadriculada.
 
-*(Opcional: Se você exportar o diagrama como imagem, pode exibi-la diretamente aqui substituindo a linha abaixo)*
+
 ![Arquitetura AWS](./arquitetura-desafio-gft.png)
 
 ---
